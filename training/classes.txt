@@ -1,0 +1,6 @@
+Biker
+Bus
+Car
+Cart
+Pedestrian
+Skater
