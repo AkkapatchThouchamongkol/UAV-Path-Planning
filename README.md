@@ -25,8 +25,9 @@ $ conda install requirements.txt
 ```
 
 ## Usage
-
-...
+```
+sh test.sh
+```
 
 ## Folders
 
