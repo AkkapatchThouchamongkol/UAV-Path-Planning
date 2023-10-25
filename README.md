@@ -50,5 +50,3 @@ Contributors names and contact info
 * Yan-Hao Wang - u09520083@ccu.edu.tw
 * Quan Tran Dinh Dai - tranquan687@gmail.com
 * Van-Linh Nguyen - nvlinh@cs.ccu.edu.tw
-
-## License
