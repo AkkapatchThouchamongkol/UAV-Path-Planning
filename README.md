@@ -32,7 +32,7 @@ $ conda install requirements.txt
 * `path_planning`: Includes codes related to path planning, path visualization, and execution time calculation.
 * `training`: Contains codes related to YOLO (You Only Look Once) for object detection.
 
-## Video Result
+## Video Results
 A*
 
 [![Watch the video](https://img.youtube.com/vi/jSYJiCu5KPU/1.jpg)](https://www.youtube.com/watch?v=jSYJiCu5KPU)
