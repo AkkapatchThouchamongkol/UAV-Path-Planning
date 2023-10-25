@@ -4,6 +4,8 @@ This project we find safe path for UAV in a dynamic hostile environment. Using r
 
 ## Requirements
 ```
+ipykernel=6.25.2
+ipython=8.15.0
 matplotlib=3.8.0
 numpy=1.26.0
 opencv-python=4.8.0.76
