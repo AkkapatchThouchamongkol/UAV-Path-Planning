@@ -1,6 +1,3 @@
-Biker
-Bus
-Car
-Cart
-Pedestrian
-Skater
+version https://git-lfs.github.com/spec/v1
+oid sha256:a702ac1f1c1bed2f0b0ffe5d6b41710bf6e4b404903c67b5e823ea288f519ff5
+size 41
