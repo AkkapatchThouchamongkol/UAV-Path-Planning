@@ -4,15 +4,14 @@ This project we find safe path for UAV in a dynamic hostile environment. Using r
 
 ## Requirements
 ```
-matplotlib=3.8.0=pypi_0
-numpy=1.26.0=pypi_0
-opencv-python=4.8.0.76=pypi_0
-pandas=2.1.1=pypi_0
-python=3.11.5=h955ad1f_0
-torch=2.0.1=pypi_0
-torchvision=0.15.2=pypi_0
-ultralytics=8.0.183=pypi_0
-
+matplotlib=3.8.0
+numpy=1.26.0
+opencv-python=4.8.0.76
+pandas=2.1.1
+python=3.11.5
+torch=2.0.1
+torchvision=0.15.2
+ultralytics=8.0.183
 ```
 
 ## Installation
